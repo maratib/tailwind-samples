@@ -1,4 +1,4 @@
-# TailwindCSS work samples
+# TailwindCSS screenshot samples
 
 
 [Link](https://tradehat.com/)
