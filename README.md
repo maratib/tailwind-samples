@@ -1,5 +1,8 @@
 # TailwindCSS work samples
 
+##  Auto Approve
+![](auto-approve.png)
+
 ##  TradeHat.com
 [Link](https://tradehat.com/)
 
