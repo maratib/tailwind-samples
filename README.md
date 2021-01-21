@@ -1,8 +1,6 @@
 # TailwindCSS screenshot samples
 
 
-[Link](https://tradehat.com/)
-
 ![](TradeHat.com.png)
 ![](TradeHat-screener.png)
 
